@@ -1,0 +1,36 @@
+body {
+    background-color: rgba(7, 138, 138,0.3);
+}
+
+
+
+.info {
+    line-height: 10px ;
+    color :  rgba(38, 38, 44,0.87);
+}
+#obj {
+    display: inline-block;
+    margin-top: 6px;
+    margin-bottom: 0px ;
+}
+
+p {
+    color: rgba(38, 38, 44,0.87);
+    line-height: 1px;
+}
+
+th {
+    padding-right: 28px;
+    border: 2px solid;
+    font-size: large;
+}
+
+table {
+    border: 2px solid ;
+}
+
+td{
+    padding-right: 28px;
+    border: 2px solid;
+    font-size: large;
+}
